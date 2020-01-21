@@ -14,6 +14,11 @@ public class Student {
     
     private String name;
     private int studentID;
+    private int ID;
+    private int age;
+    private String email;
+    private String program;
+    private String status
 
     /**
      * Get the value of name
