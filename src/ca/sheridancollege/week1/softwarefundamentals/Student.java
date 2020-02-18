@@ -18,7 +18,7 @@ public class Student {
     private int age;
     private String email;
     private String program;
-    private String status
+    private String status;
 
     /**
      * Get the value of name
